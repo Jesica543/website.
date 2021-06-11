@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	font-family: 'Signika Negative', sans-serif;
+}
+
+h2 {
+	color: #4324DB;
+	font-size: 40px;
+}
+
+p {
+	color: #222222;
+	font-size: 22px;
+	font-family: 'Signika Negative', sans-serif;
+}
+#profile {
+	background-color: #E9FFFF;
+	border:4px solid #3EFFFF;
+	padding: 30px;
+}
+
+a {
+	front-size: 400px;
+	color: green;
+	margin-left: 550px;
+
+.box-white {
+		background-color: white;
+		padding: 10px 8px
+	}
+	
+}
+a:hover {
+	color: blue;
+}
